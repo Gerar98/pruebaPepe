@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>mapas1</title>
+		<meta charset="UTF-8 /">
+		<meta name="description" content="UD03-Repaso01" />
+		<meta name="author" content="gerardo miranda" />
+	</head>
+	<body>
+
+		
+
+
+		<h2> el pepe <h2/>
+		<h2> el pepe2 <h2/>
+
+	</body>
+</html>
